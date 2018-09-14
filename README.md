@@ -4,4 +4,4 @@ COMPILE & RUN:
 
 make
 
-./a.out
+./psn_mapping
