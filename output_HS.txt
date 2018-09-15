@@ -1,0 +1,2 @@
+% Maximum temperatures for the floorplan of the die TIER1
+% Time(s) 	 Core1(K) 	 Core2(K) 	 Core3(K) 	 Core4(K) 	 Core5(K) 	 Core6(K) 	 Core7(K) 	 Core8(K) 	 Core9(K) 	 Core10(K) 	 Core11(K) 	 Core12(K) 	 Core13(K) 	 Core14(K) 	 Core15(K) 	 Core16(K) 	 Core17(K) 	 Core18(K) 	 Core19(K) 	 Core20(K) 	 

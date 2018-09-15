@@ -1,0 +1,420 @@
+
+Core1 :
+
+  position       0,    0 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core2 :
+
+  position    3000,    0 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core3 :
+
+  position    6000,    0 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core4 :
+
+  position    9000,    0 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core5 :
+
+  position    12000,    0 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core6 :
+
+  position    15000,    0 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core7 :
+
+  position    18000,    0 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core8 :
+
+  position    21000,    0 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core9 :
+
+  position    24000,    0 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core10 :
+
+  position    27000,    0 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core11 :
+
+  position       0, 3000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core12 :
+
+  position    3000, 3000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core13 :
+
+  position    6000, 3000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core14 :
+
+  position    9000, 3000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core15 :
+
+  position    12000, 3000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core16 :
+
+  position    15000, 3000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core17 :
+
+  position    18000, 3000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core18 :
+
+  position    21000, 3000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core19 :
+
+  position    24000, 3000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core20 :
+
+  position    27000, 3000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core21 :
+
+  position       0, 6000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core22 :
+
+  position    3000, 6000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core23 :
+
+  position    6000, 6000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core24 :
+
+  position    9000, 6000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core25 :
+
+  position    12000, 6000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core26 :
+
+  position    15000, 6000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core27 :
+
+  position    18000, 6000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core28 :
+
+  position    21000, 6000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core29 :
+
+  position    24000, 6000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core30 :
+
+  position    27000, 6000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core31 :
+
+  position       0, 9000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core32 :
+
+  position    3000, 9000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core33 :
+
+  position    6000, 9000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core34 :
+
+  position    9000, 9000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core35 :
+
+  position    12000, 9000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core36 :
+
+  position    15000, 9000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core37 :
+
+  position    18000, 9000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core38 :
+
+  position    21000, 9000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core39 :
+
+  position    24000, 9000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core40 :
+
+  position    27000, 9000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core41 :
+
+  position       0, 12000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core42 :
+
+  position    3000, 12000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core43 :
+
+  position    6000, 12000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core44 :
+
+  position    9000, 12000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core45 :
+
+  position    12000, 12000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core46 :
+
+  position    15000, 12000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core47 :
+
+  position    18000, 12000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core48 :
+
+  position    21000, 12000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core49 :
+
+  position    24000, 12000 ;
+  dimension   3000, 3000 ;
+
+  power values 1.66765;
+
+Core50 :
+
+  position    27000, 12000 ;
+  dimension   3000, 3000 ;
+
+  power values 1.66765;
+
+Core51 :
+
+  position       0, 15000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core52 :
+
+  position    3000, 15000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core53 :
+
+  position    6000, 15000 ;
+  dimension   3000, 3000 ;
+
+  power values 1.48641;
+
+Core54 :
+
+  position    9000, 15000 ;
+  dimension   3000, 3000 ;
+
+  power values 1.48641;
+
+Core55 :
+
+  position    12000, 15000 ;
+  dimension   3000, 3000 ;
+
+  power values 1.66765;
+
+Core56 :
+
+  position    15000, 15000 ;
+  dimension   3000, 3000 ;
+
+  power values 1.66765;
+
+Core57 :
+
+  position    18000, 15000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core58 :
+
+  position    21000, 15000 ;
+  dimension   3000, 3000 ;
+
+  power values 0;
+
+Core59 :
+
+  position    24000, 15000 ;
+  dimension   3000, 3000 ;
+
+  power values 1.48641;
+
+Core60 :
+
+  position    27000, 15000 ;
+  dimension   3000, 3000 ;
+
+  power values 1.48641;

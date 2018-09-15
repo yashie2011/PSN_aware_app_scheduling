@@ -1,0 +1,2070 @@
+.:
+total 420
+drwxr-xr-x 1 yaswanth EEgrad 508 May  1 08:46 canneal_64_16_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 472 May  1 11:11 canneal_64_16_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 29 19:36 canneal_64_16_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 30 07:58 canneal_64_16_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 30 20:22 canneal_64_16_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 18:14 canneal_64_8_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 29 07:04 canneal_64_8_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 04:01 canneal_64_8_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 16:44 canneal_64_8_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 05:30 canneal_64_8_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 02:28 fluidanimate_64_16_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 03:29 fluidanimate_64_16_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 23:27 fluidanimate_64_16_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 00:27 fluidanimate_64_16_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 01:27 fluidanimate_64_16_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 06:58 fluidanimate_64_32_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 07:50 fluidanimate_64_32_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 04:21 fluidanimate_64_32_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 05:14 fluidanimate_64_32_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 06:06 fluidanimate_64_32_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 28 07:50 fluidanimate_64_48_gainestown
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 28 07:50 fluidanimate_64_48_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 28 07:50 fluidanimate_64_48_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 28 07:50 fluidanimate_64_48_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 28 07:50 fluidanimate_64_48_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 21:03 fluidanimate_64_8_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 22:26 fluidanimate_64_8_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 16:57 fluidanimate_64_8_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 18:19 fluidanimate_64_8_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 19:41 fluidanimate_64_8_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_16_gainestown
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_16_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_16_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_16_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_16_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_32_gainestown
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_32_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_32_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_32_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_32_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_48_gainestown
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_48_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_48_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_48_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_48_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_8_gainestown
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_8_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_8_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_8_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 lu_64_8_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_16_gainestown
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_16_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_16_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_16_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_16_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_32_gainestown
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_32_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_32_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_32_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_32_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_48_gainestown
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_48_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_48_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_48_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_48_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_8_gainestown
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_8_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_8_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_8_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad   0 Apr 27 06:00 oceans_64_8_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 23:10 radiosity_64_16_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 23:50 radiosity_64_16_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 21:10 radiosity_64_16_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 21:50 radiosity_64_16_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 22:30 radiosity_64_16_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 02:15 radiosity_64_32_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 02:51 radiosity_64_32_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 00:25 radiosity_64_32_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 01:02 radiosity_64_32_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 01:38 radiosity_64_32_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 05:21 radiosity_64_48_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 06:00 radiosity_64_48_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 03:29 radiosity_64_48_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 04:06 radiosity_64_48_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 04:44 radiosity_64_48_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 19:32 radiosity_64_8_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 20:30 radiosity_64_8_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 16:35 radiosity_64_8_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 17:34 radiosity_64_8_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 18:33 radiosity_64_8_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 15:58 radix_64_16_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 16:01 radix_64_16_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 15:51 radix_64_16_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 15:53 radix_64_16_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 15:56 radix_64_16_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 16:09 radix_64_32_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 16:11 radix_64_32_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 16:03 radix_64_32_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 16:05 radix_64_32_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 16:07 radix_64_32_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 504 Apr 26 16:17 radix_64_48_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 504 Apr 26 16:18 radix_64_48_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 592 Apr 26 22:14 radix_64_48_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 504 Apr 26 16:14 radix_64_48_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 504 Apr 26 16:15 radix_64_48_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 15:44 radix_64_8_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 15:48 radix_64_8_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 15:32 radix_64_8_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 15:36 radix_64_8_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 15:40 radix_64_8_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 02:40 raytrace_64_16_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 06:20 raytrace_64_16_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 15:33 raytrace_64_16_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 19:17 raytrace_64_16_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 22:59 raytrace_64_16_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 20:42 raytrace_64_32_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 29 00:19 raytrace_64_32_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 09:55 raytrace_64_32_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 13:32 raytrace_64_32_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 28 17:08 raytrace_64_32_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 29 14:35 raytrace_64_48_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 29 18:13 raytrace_64_48_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 29 03:52 raytrace_64_48_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 29 07:25 raytrace_64_48_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 29 10:59 raytrace_64_48_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 07:58 raytrace_64_8_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 11:52 raytrace_64_8_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 20:13 raytrace_64_8_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 00:08 raytrace_64_8_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 04:05 raytrace_64_8_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 21:02 streamcluster_64_16_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 21:50 streamcluster_64_16_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 18:46 streamcluster_64_16_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 19:31 streamcluster_64_16_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 20:15 streamcluster_64_16_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 03:16 streamcluster_64_32_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 04:40 streamcluster_64_32_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 23:13 streamcluster_64_32_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 00:34 streamcluster_64_32_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 01:57 streamcluster_64_32_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 13:27 streamcluster_64_48_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 15:36 streamcluster_64_48_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 06:48 streamcluster_64_48_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 08:58 streamcluster_64_48_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 27 11:08 streamcluster_64_48_gainestown_9
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 17:13 streamcluster_64_8_gainestown
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 18:01 streamcluster_64_8_gainestown_11
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 14:49 streamcluster_64_8_gainestown_75
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 15:38 streamcluster_64_8_gainestown_8
+drwxr-xr-x 1 yaswanth EEgrad 508 Apr 26 16:26 streamcluster_64_8_gainestown_9
+-rw-r--r-- 1 yaswanth EEgrad   0 May  1 11:11 traces.txt
+
+./canneal_64_16_gainestown:
+total 26988
+-rw-r--r-- 1 yaswanth EEgrad     1038 May  1 08:46 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  3430315 May  1 08:46 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad      885 May  1 08:46 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad  1057268 May  1 08:46 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad   676414 May  1 08:46 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad   794084 May  1 08:46 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  3423910 May  1 08:46 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  6570326 May  1 08:46 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 11282723 May  1 08:46 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     6463 Apr 30 20:22 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad     2476 May  1 08:46 sim.info
+-rw-r--r-- 1 yaswanth EEgrad    45186 May  1 08:46 sim.out
+-rw-r--r-- 1 yaswanth EEgrad      196 Apr 30 20:22 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad   311296 May  1 08:46 sim.stats.sqlite3
+
+./canneal_64_16_gainestown_11:
+total 2136
+-rw-r--r-- 1 yaswanth EEgrad     806 May  1 09:02 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  524288 May  1 10:40 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 May  1 11:11 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057535 May  1 11:11 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad       0 May  1  2017 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794096 May  1  2017 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  524288 May  1 10:40 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1048576 May  1 10:45 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6471 May  1 08:47 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad     196 May  1 08:46 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad   66560 May  1 11:11 sim.stats.sqlite3
+
+./canneal_64_16_gainestown_75:
+total 27052
+-rw-r--r-- 1 yaswanth EEgrad      976 Apr 29 19:36 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  3439567 Apr 29 19:36 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad      885 Apr 29 19:36 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad  1057519 Apr 29 19:36 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad   676665 Apr 29 19:36 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad   794085 Apr 29 19:36 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  3433144 Apr 29 19:36 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  6588108 Apr 29 19:36 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 11309522 Apr 29 19:36 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     6472 Apr 29 07:04 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad     2494 Apr 29 19:36 sim.info
+-rw-r--r-- 1 yaswanth EEgrad    45186 Apr 29 19:36 sim.out
+-rw-r--r-- 1 yaswanth EEgrad      196 Apr 29 07:04 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad   311296 Apr 29 19:36 sim.stats.sqlite3
+
+./canneal_64_16_gainestown_8:
+total 27012
+-rw-r--r-- 1 yaswanth EEgrad     1038 Apr 30 07:58 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  3434376 Apr 30 07:58 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad      885 Apr 30 07:58 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad  1057526 Apr 30 07:58 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad   676672 Apr 30 07:58 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad   794084 Apr 30 07:58 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  3427969 Apr 30 07:58 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  6578171 Apr 30 07:58 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 11295859 Apr 30 07:58 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     6469 Apr 29 19:36 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad     2487 Apr 30 07:58 sim.info
+-rw-r--r-- 1 yaswanth EEgrad    45186 Apr 30 07:58 sim.out
+-rw-r--r-- 1 yaswanth EEgrad      196 Apr 29 19:36 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad   311296 Apr 30 07:58 sim.stats.sqlite3
+
+./canneal_64_16_gainestown_9:
+total 27056
+-rw-r--r-- 1 yaswanth EEgrad     1038 Apr 30 20:22 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  3440120 Apr 30 20:22 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad      885 Apr 30 20:22 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad  1057520 Apr 30 20:22 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad   676666 Apr 30 20:22 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad   794093 Apr 30 20:22 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  3433688 Apr 30 20:22 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  6589154 Apr 30 20:22 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 11313928 Apr 30 20:22 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     6469 Apr 30 07:58 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad     2485 Apr 30 20:22 sim.info
+-rw-r--r-- 1 yaswanth EEgrad    45186 Apr 30 20:22 sim.out
+-rw-r--r-- 1 yaswanth EEgrad      196 Apr 30 07:58 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad   311296 Apr 30 20:22 sim.stats.sqlite3
+
+./canneal_64_8_gainestown:
+total 27268
+-rw-r--r-- 1 yaswanth EEgrad     1036 Apr 28 18:14 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  3483308 Apr 28 18:14 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad      885 Apr 28 18:14 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad  1057460 Apr 28 18:14 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad   676606 Apr 28 18:14 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad   794084 Apr 28 18:14 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  3477387 Apr 28 18:14 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  6678587 Apr 28 18:14 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 11475772 Apr 28 18:14 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     6461 Apr 28 05:30 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad     2473 Apr 28 18:14 sim.info
+-rw-r--r-- 1 yaswanth EEgrad    44778 Apr 28 18:14 sim.out
+-rw-r--r-- 1 yaswanth EEgrad      196 Apr 28 05:30 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad   193536 Apr 28 18:14 sim.stats.sqlite3
+
+./canneal_64_8_gainestown_11:
+total 27284
+-rw-r--r-- 1 yaswanth EEgrad     1036 Apr 29 07:04 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  3487393 Apr 29 07:04 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad      885 Apr 29 07:04 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad  1057520 Apr 29 07:04 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad   676666 Apr 29 07:04 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad   794086 Apr 29 07:04 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  3481459 Apr 29 07:04 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  6686432 Apr 29 07:04 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 11479517 Apr 29 07:04 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     6469 Apr 28 18:14 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad     2492 Apr 29 07:04 sim.info
+-rw-r--r-- 1 yaswanth EEgrad    44778 Apr 29 07:04 sim.out
+-rw-r--r-- 1 yaswanth EEgrad      196 Apr 28 18:14 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad   192512 Apr 29 07:04 sim.stats.sqlite3
+
+./canneal_64_8_gainestown_75:
+total 27168
+-rw-r--r-- 1 yaswanth EEgrad     1036 Apr 27 04:01 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  3469392 Apr 27 04:01 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad      885 Apr 27 04:01 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad  1057518 Apr 27 04:01 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad   676664 Apr 27 04:01 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad   794084 Apr 27 04:01 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  3463513 Apr 27 04:01 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  6651914 Apr 27 04:01 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 11425615 Apr 27 04:01 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     6470 Apr 26 15:12 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad     2491 Apr 27 04:01 sim.info
+-rw-r--r-- 1 yaswanth EEgrad    44778 Apr 27 04:01 sim.out
+-rw-r--r-- 1 yaswanth EEgrad      196 Apr 26 15:12 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad   192512 Apr 27 04:01 sim.stats.sqlite3
+
+./canneal_64_8_gainestown_8:
+total 27172
+-rw-r--r-- 1 yaswanth EEgrad     1036 Apr 27 16:44 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  3471033 Apr 27 16:44 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad      885 Apr 27 16:44 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad  1057525 Apr 27 16:44 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad   676671 Apr 27 16:44 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad   794093 Apr 27 16:44 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  3465143 Apr 27 16:44 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  6655052 Apr 27 16:44 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 11431831 Apr 27 16:44 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     6467 Apr 27 04:01 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad     2485 Apr 27 16:44 sim.info
+-rw-r--r-- 1 yaswanth EEgrad    44778 Apr 27 16:44 sim.out
+-rw-r--r-- 1 yaswanth EEgrad      196 Apr 27 04:01 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad   192512 Apr 27 16:44 sim.stats.sqlite3
+
+./canneal_64_8_gainestown_9:
+total 27276
+-rw-r--r-- 1 yaswanth EEgrad     1036 Apr 28 05:30 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  3484965 Apr 28 05:30 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad      885 Apr 28 05:30 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad  1057521 Apr 28 05:30 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad   676667 Apr 28 05:30 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad   794084 Apr 28 05:30 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  3479037 Apr 28 05:30 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  6681725 Apr 28 05:30 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 11474885 Apr 28 05:30 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     6467 Apr 27 16:45 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad     2485 Apr 28 05:30 sim.info
+-rw-r--r-- 1 yaswanth EEgrad    44778 Apr 28 05:30 sim.out
+-rw-r--r-- 1 yaswanth EEgrad      196 Apr 27 16:44 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad   193536 Apr 28 05:30 sim.stats.sqlite3
+
+./fluidanimate_64_16_gainestown:
+total 4460
+-rw-r--r-- 1 yaswanth EEgrad     927 Apr 28 02:28 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  251692 Apr 28 02:28 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 02:28 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057541 Apr 28 02:28 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676685 Apr 28 02:28 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794081 Apr 28 02:28 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  251414 Apr 28 02:28 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  423465 Apr 28 02:28 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  716333 Apr 28 02:28 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 28 01:27 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2483 Apr 28 02:28 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 02:28 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 01:27 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  309248 Apr 28 02:28 sim.stats.sqlite3
+
+./fluidanimate_64_16_gainestown_11:
+total 4456
+-rw-r--r-- 1 yaswanth EEgrad     927 Apr 28 03:29 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  251749 Apr 28 03:29 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 03:29 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057537 Apr 28 03:29 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676681 Apr 28 03:29 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794081 Apr 28 03:29 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  251456 Apr 28 03:29 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  423465 Apr 28 03:29 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  716750 Apr 28 03:29 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6481 Apr 28 02:29 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2502 Apr 28 03:29 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 03:29 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 02:28 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  307200 Apr 28 03:29 sim.stats.sqlite3
+
+./fluidanimate_64_16_gainestown_75:
+total 4464
+-rw-r--r-- 1 yaswanth EEgrad     927 Apr 27 23:27 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  251998 Apr 27 23:27 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 23:27 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057532 Apr 27 23:27 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676676 Apr 27 23:27 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794083 Apr 27 23:27 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  251732 Apr 27 23:27 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  423986 Apr 27 23:27 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  717980 Apr 27 23:27 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6482 Apr 27 22:27 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2503 Apr 27 23:27 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 23:27 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 22:27 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  309248 Apr 27 23:27 sim.stats.sqlite3
+
+./fluidanimate_64_16_gainestown_8:
+total 4460
+-rw-r--r-- 1 yaswanth EEgrad     927 Apr 28 00:27 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  251818 Apr 28 00:27 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 00:27 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057535 Apr 28 00:27 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676681 Apr 28 00:27 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794082 Apr 28 00:27 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  251537 Apr 28 00:27 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  423465 Apr 28 00:27 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  717077 Apr 28 00:27 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6479 Apr 27 23:27 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2496 Apr 28 00:27 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 00:27 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 23:27 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  307200 Apr 28 00:27 sim.stats.sqlite3
+
+./fluidanimate_64_16_gainestown_9:
+total 4464
+-rw-r--r-- 1 yaswanth EEgrad     927 Apr 28 01:27 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  251712 Apr 28 01:27 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 01:27 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057531 Apr 28 01:27 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676677 Apr 28 01:27 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794082 Apr 28 01:27 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  251461 Apr 28 01:27 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  423465 Apr 28 01:27 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  716971 Apr 28 01:27 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6479 Apr 28 00:27 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2497 Apr 28 01:27 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 01:27 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 00:27 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  308224 Apr 28 01:27 sim.stats.sqlite3
+
+./fluidanimate_64_32_gainestown:
+total 4308
+-rw-r--r-- 1 yaswanth EEgrad     927 Apr 28 06:58 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  203281 Apr 28 06:58 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 06:58 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057532 Apr 28 06:58 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676678 Apr 28 06:58 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794081 Apr 28 06:58 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  202823 Apr 28 06:58 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  321349 Apr 28 06:58 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  539647 Apr 28 06:58 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 28 06:06 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2484 Apr 28 06:58 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 06:58 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 06:06 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  532480 Apr 28 06:58 sim.stats.sqlite3
+
+./fluidanimate_64_32_gainestown_11:
+total 4308
+-rw-r--r-- 1 yaswanth EEgrad     927 Apr 28 07:50 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  203194 Apr 28 07:50 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 07:50 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057530 Apr 28 07:50 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676674 Apr 28 07:50 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794081 Apr 28 07:50 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  202613 Apr 28 07:50 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  320307 Apr 28 07:50 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  537270 Apr 28 07:50 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6481 Apr 28 06:58 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2503 Apr 28 07:50 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 07:50 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 06:58 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  532480 Apr 28 07:50 sim.stats.sqlite3
+
+./fluidanimate_64_32_gainestown_75:
+total 4308
+-rw-r--r-- 1 yaswanth EEgrad     927 Apr 28 04:21 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  203627 Apr 28 04:21 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 04:21 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057429 Apr 28 04:21 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676581 Apr 28 04:21 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794083 Apr 28 04:21 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  203089 Apr 28 04:21 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  321349 Apr 28 04:21 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  538663 Apr 28 04:21 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6482 Apr 28 03:29 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2503 Apr 28 04:21 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 04:21 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 03:29 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  531456 Apr 28 04:21 sim.stats.sqlite3
+
+./fluidanimate_64_32_gainestown_8:
+total 4308
+-rw-r--r-- 1 yaswanth EEgrad     927 Apr 28 05:14 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  203779 Apr 28 05:14 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 05:13 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057470 Apr 28 05:14 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676614 Apr 28 05:14 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794082 Apr 28 05:14 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  203315 Apr 28 05:14 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  321870 Apr 28 05:14 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  539651 Apr 28 05:14 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6479 Apr 28 04:21 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2497 Apr 28 05:14 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 05:14 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 04:21 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  531456 Apr 28 05:14 sim.stats.sqlite3
+
+./fluidanimate_64_32_gainestown_9:
+total 4312
+-rw-r--r-- 1 yaswanth EEgrad     927 Apr 28 06:06 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  203508 Apr 28 06:06 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 06:06 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057531 Apr 28 06:06 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676677 Apr 28 06:06 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794081 Apr 28 06:06 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  202950 Apr 28 06:06 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  320828 Apr 28 06:06 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  538152 Apr 28 06:06 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6479 Apr 28 05:14 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2496 Apr 28 06:06 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 06:06 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 05:14 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  533504 Apr 28 06:06 sim.stats.sqlite3
+
+./fluidanimate_64_48_gainestown:
+total 0
+
+./fluidanimate_64_48_gainestown_11:
+total 0
+
+./fluidanimate_64_48_gainestown_75:
+total 0
+
+./fluidanimate_64_48_gainestown_8:
+total 0
+
+./fluidanimate_64_48_gainestown_9:
+total 0
+
+./fluidanimate_64_8_gainestown:
+total 5092
+-rw-r--r-- 1 yaswanth EEgrad     926 Apr 27 21:03 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  354414 Apr 27 21:03 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 21:03 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057547 Apr 27 21:03 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676693 Apr 27 21:03 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794080 Apr 27 21:03 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  354295 Apr 27 21:03 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  627903 Apr 27 21:03 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1069114 Apr 27 21:03 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6471 Apr 27 19:41 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2481 Apr 27 21:03 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 21:03 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 19:41 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  190464 Apr 27 21:03 sim.stats.sqlite3
+
+./fluidanimate_64_8_gainestown_11:
+total 5092
+-rw-r--r-- 1 yaswanth EEgrad     926 Apr 27 22:26 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  355003 Apr 27 22:26 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 22:26 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057568 Apr 27 22:26 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676720 Apr 27 22:26 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794081 Apr 27 22:26 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  354862 Apr 27 22:26 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  628947 Apr 27 22:26 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1071295 Apr 27 22:26 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6479 Apr 27 21:03 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2498 Apr 27 22:26 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 22:26 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 21:03 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  190464 Apr 27 22:26 sim.stats.sqlite3
+
+./fluidanimate_64_8_gainestown_75:
+total 5092
+-rw-r--r-- 1 yaswanth EEgrad     926 Apr 27 16:57 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  354686 Apr 27 16:57 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 16:57 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057545 Apr 27 16:57 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676691 Apr 27 16:57 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794080 Apr 27 16:57 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  354557 Apr 27 16:57 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  628425 Apr 27 16:57 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1070552 Apr 27 16:57 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6480 Apr 27 15:36 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2498 Apr 27 16:57 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 16:57 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 15:36 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  190464 Apr 27 16:57 sim.stats.sqlite3
+
+./fluidanimate_64_8_gainestown_8:
+total 5088
+-rw-r--r-- 1 yaswanth EEgrad     926 Apr 27 18:19 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  354455 Apr 27 18:19 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 18:19 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057544 Apr 27 18:19 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676690 Apr 27 18:19 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794080 Apr 27 18:19 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  354324 Apr 27 18:19 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  627903 Apr 27 18:19 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1068463 Apr 27 18:19 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6477 Apr 27 16:58 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2492 Apr 27 18:19 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 18:19 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 16:57 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  189440 Apr 27 18:19 sim.stats.sqlite3
+
+./fluidanimate_64_8_gainestown_9:
+total 5092
+-rw-r--r-- 1 yaswanth EEgrad     926 Apr 27 19:41 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  354696 Apr 27 19:41 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 19:40 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057545 Apr 27 19:40 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676691 Apr 27 19:40 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794080 Apr 27 19:40 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  354576 Apr 27 19:41 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  628425 Apr 27 19:41 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1072110 Apr 27 19:41 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6477 Apr 27 18:19 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2491 Apr 27 19:41 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 19:41 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 18:19 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  189440 Apr 27 19:41 sim.stats.sqlite3
+
+./lu_64_16_gainestown:
+total 0
+
+./lu_64_16_gainestown_11:
+total 0
+
+./lu_64_16_gainestown_75:
+total 0
+
+./lu_64_16_gainestown_8:
+total 0
+
+./lu_64_16_gainestown_9:
+total 0
+
+./lu_64_32_gainestown:
+total 0
+
+./lu_64_32_gainestown_11:
+total 0
+
+./lu_64_32_gainestown_75:
+total 0
+
+./lu_64_32_gainestown_8:
+total 0
+
+./lu_64_32_gainestown_9:
+total 0
+
+./lu_64_48_gainestown:
+total 0
+
+./lu_64_48_gainestown_11:
+total 0
+
+./lu_64_48_gainestown_75:
+total 0
+
+./lu_64_48_gainestown_8:
+total 0
+
+./lu_64_48_gainestown_9:
+total 0
+
+./lu_64_8_gainestown:
+total 0
+
+./lu_64_8_gainestown_11:
+total 0
+
+./lu_64_8_gainestown_75:
+total 0
+
+./lu_64_8_gainestown_8:
+total 0
+
+./lu_64_8_gainestown_9:
+total 0
+
+./oceans_64_16_gainestown:
+total 0
+
+./oceans_64_16_gainestown_11:
+total 0
+
+./oceans_64_16_gainestown_75:
+total 0
+
+./oceans_64_16_gainestown_8:
+total 0
+
+./oceans_64_16_gainestown_9:
+total 0
+
+./oceans_64_32_gainestown:
+total 0
+
+./oceans_64_32_gainestown_11:
+total 0
+
+./oceans_64_32_gainestown_75:
+total 0
+
+./oceans_64_32_gainestown_8:
+total 0
+
+./oceans_64_32_gainestown_9:
+total 0
+
+./oceans_64_48_gainestown:
+total 0
+
+./oceans_64_48_gainestown_11:
+total 0
+
+./oceans_64_48_gainestown_75:
+total 0
+
+./oceans_64_48_gainestown_8:
+total 0
+
+./oceans_64_48_gainestown_9:
+total 0
+
+./oceans_64_8_gainestown:
+total 0
+
+./oceans_64_8_gainestown_11:
+total 0
+
+./oceans_64_8_gainestown_75:
+total 0
+
+./oceans_64_8_gainestown_8:
+total 0
+
+./oceans_64_8_gainestown_9:
+total 0
+
+./radiosity_64_16_gainestown:
+total 3672
+-rw-r--r-- 1 yaswanth EEgrad    3397 Apr 26 23:10 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  138206 Apr 26 23:10 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 23:10 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057602 Apr 26 23:10 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676754 Apr 26 23:10 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794070 Apr 26 23:10 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  138074 Apr 26 23:10 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  217670 Apr 26 23:10 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  365028 Apr 26 23:10 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6467 Apr 26 22:30 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2475 Apr 26 23:10 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 23:10 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 22:30 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  285696 Apr 26 23:10 sim.stats.sqlite3
+
+./radiosity_64_16_gainestown_11:
+total 3672
+-rw-r--r-- 1 yaswanth EEgrad    3437 Apr 26 23:50 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  139162 Apr 26 23:50 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 23:50 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057570 Apr 26 23:50 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676722 Apr 26 23:50 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794087 Apr 26 23:50 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  139048 Apr 26 23:50 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  219233 Apr 26 23:50 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  367769 Apr 26 23:50 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6475 Apr 26 23:10 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2494 Apr 26 23:50 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 23:50 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 23:10 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  283648 Apr 26 23:50 sim.stats.sqlite3
+
+./radiosity_64_16_gainestown_75:
+total 3676
+-rw-r--r-- 1 yaswanth EEgrad    3438 Apr 26 21:10 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  139302 Apr 26 21:10 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 21:10 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057561 Apr 26 21:10 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676713 Apr 26 21:10 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794104 Apr 26 21:10 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  139170 Apr 26 21:10 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  219233 Apr 26 21:10 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  367890 Apr 26 21:10 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6476 Apr 26 20:31 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2493 Apr 26 21:10 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 21:10 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 20:30 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  285696 Apr 26 21:10 sim.stats.sqlite3
+
+./radiosity_64_16_gainestown_8:
+total 3672
+-rw-r--r-- 1 yaswanth EEgrad    3438 Apr 26 21:50 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  139167 Apr 26 21:50 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 21:50 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057566 Apr 26 21:50 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676716 Apr 26 21:50 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794107 Apr 26 21:50 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  139026 Apr 26 21:50 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  219233 Apr 26 21:50 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  367221 Apr 26 21:50 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 26 21:10 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2487 Apr 26 21:50 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 21:50 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 21:10 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  285696 Apr 26 21:50 sim.stats.sqlite3
+
+./radiosity_64_16_gainestown_9:
+total 3684
+-rw-r--r-- 1 yaswanth EEgrad    3438 Apr 26 22:30 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  139912 Apr 26 22:30 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 22:30 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057564 Apr 26 22:30 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676716 Apr 26 22:30 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794101 Apr 26 22:30 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  139751 Apr 26 22:30 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  220275 Apr 26 22:30 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  369212 Apr 26 22:30 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 26 21:50 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2488 Apr 26 22:30 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 22:30 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 21:50 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  285696 Apr 26 22:30 sim.stats.sqlite3
+
+./radiosity_64_32_gainestown:
+total 3676
+-rw-r--r-- 1 yaswanth EEgrad    3379 Apr 27 02:14 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  118068 Apr 27 02:15 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 02:14 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057558 Apr 27 02:14 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676708 Apr 27 02:14 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794105 Apr 27 02:14 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  117785 Apr 27 02:15 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  159318 Apr 27 02:15 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  261370 Apr 27 02:15 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6467 Apr 27 01:38 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2476 Apr 27 02:15 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 02:15 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 01:38 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  499712 Apr 27 02:15 sim.stats.sqlite3
+
+./radiosity_64_32_gainestown_11:
+total 3676
+-rw-r--r-- 1 yaswanth EEgrad    3399 Apr 27 02:51 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  117333 Apr 27 02:51 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 02:51 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057560 Apr 27 02:51 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676712 Apr 27 02:51 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794099 Apr 27 02:51 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  117040 Apr 27 02:51 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  158797 Apr 27 02:51 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  261518 Apr 27 02:51 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6475 Apr 27 02:15 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2492 Apr 27 02:51 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 02:51 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 02:15 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  499712 Apr 27 02:51 sim.stats.sqlite3
+
+./radiosity_64_32_gainestown_75:
+total 3656
+-rw-r--r-- 1 yaswanth EEgrad    3419 Apr 27 00:25 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  114399 Apr 27 00:25 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 00:25 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057553 Apr 27 00:25 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676707 Apr 27 00:25 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794107 Apr 27 00:25 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  113923 Apr 27 00:25 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  154629 Apr 27 00:25 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  253688 Apr 27 00:25 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6476 Apr 26 23:50 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2493 Apr 27 00:25 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 00:25 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 23:50 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  499712 Apr 27 00:25 sim.stats.sqlite3
+
+./radiosity_64_32_gainestown_8:
+total 3672
+-rw-r--r-- 1 yaswanth EEgrad    3418 Apr 27 01:02 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  116511 Apr 27 01:02 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 01:02 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057600 Apr 27 01:02 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676752 Apr 27 01:02 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794075 Apr 27 01:02 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  116181 Apr 27 01:02 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  157234 Apr 27 01:02 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  257657 Apr 27 01:02 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 27 00:26 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2487 Apr 27 01:02 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 01:02 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 00:25 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  499712 Apr 27 01:02 sim.stats.sqlite3
+
+./radiosity_64_32_gainestown_9:
+total 3680
+-rw-r--r-- 1 yaswanth EEgrad    3398 Apr 27 01:38 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  117179 Apr 27 01:38 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 01:38 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057495 Apr 27 01:38 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676647 Apr 27 01:38 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794104 Apr 27 01:38 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  116866 Apr 27 01:38 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  158797 Apr 27 01:38 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  260933 Apr 27 01:38 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 27 01:02 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2488 Apr 27 01:38 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 01:38 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 01:02 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  501760 Apr 27 01:38 sim.stats.sqlite3
+
+./radiosity_64_48_gainestown:
+total 3844
+-rw-r--r-- 1 yaswanth EEgrad    3319 Apr 27 05:21 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  115205 Apr 27 05:21 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 05:21 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057575 Apr 27 05:21 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676727 Apr 27 05:21 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794089 Apr 27 05:21 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  114295 Apr 27 05:21 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  137436 Apr 27 05:21 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  219994 Apr 27 05:21 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6467 Apr 27 04:44 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2476 Apr 27 05:21 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 05:21 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 04:44 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  734208 Apr 27 05:21 sim.stats.sqlite3
+
+./radiosity_64_48_gainestown_11:
+total 3860
+-rw-r--r-- 1 yaswanth EEgrad    3399 Apr 27 06:00 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  118240 Apr 27 06:00 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 06:00 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057601 Apr 27 06:00 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676753 Apr 27 06:00 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794073 Apr 27 06:00 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  117456 Apr 27 06:00 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  140562 Apr 27 06:00 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  226090 Apr 27 06:00 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6475 Apr 27 05:22 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2493 Apr 27 06:00 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 06:00 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 05:21 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  736256 Apr 27 06:00 sim.stats.sqlite3
+
+./radiosity_64_48_gainestown_75:
+total 3856
+-rw-r--r-- 1 yaswanth EEgrad    3378 Apr 27 03:29 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  117498 Apr 27 03:29 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 03:28 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057305 Apr 27 03:29 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676455 Apr 27 03:29 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794105 Apr 27 03:28 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  116832 Apr 27 03:29 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  140041 Apr 27 03:29 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  224794 Apr 27 03:29 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6476 Apr 27 02:51 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2494 Apr 27 03:29 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 03:29 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 02:51 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  734208 Apr 27 03:29 sim.stats.sqlite3
+
+./radiosity_64_48_gainestown_8:
+total 3848
+-rw-r--r-- 1 yaswanth EEgrad    3358 Apr 27 04:06 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  115711 Apr 27 04:06 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 04:06 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057310 Apr 27 04:06 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676462 Apr 27 04:06 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794097 Apr 27 04:06 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  115056 Apr 27 04:06 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  137957 Apr 27 04:06 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  221047 Apr 27 04:06 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 27 03:29 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2488 Apr 27 04:06 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 04:06 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 03:29 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  734208 Apr 27 04:06 sim.stats.sqlite3
+
+./radiosity_64_48_gainestown_9:
+total 3852
+-rw-r--r-- 1 yaswanth EEgrad    3359 Apr 27 04:44 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  116709 Apr 27 04:44 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 04:44 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057559 Apr 27 04:44 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676711 Apr 27 04:44 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794105 Apr 27 04:44 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  115862 Apr 27 04:44 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  138999 Apr 27 04:44 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  223346 Apr 27 04:44 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 27 04:06 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2487 Apr 27 04:44 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 04:44 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 04:06 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  735232 Apr 27 04:44 sim.stats.sqlite3
+
+./radiosity_64_8_gainestown:
+total 4080
+-rw-r--r-- 1 yaswanth EEgrad    3494 Apr 26 19:32 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  208881 Apr 26 19:32 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 19:32 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057304 Apr 26 19:32 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676456 Apr 26 19:32 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794100 Apr 26 19:32 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  208715 Apr 26 19:32 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  361466 Apr 26 19:32 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  613019 Apr 26 19:32 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6465 Apr 26 18:33 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2470 Apr 26 19:32 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 19:32 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 18:33 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  175104 Apr 26 19:32 sim.stats.sqlite3
+
+./radiosity_64_8_gainestown_11:
+total 4088
+-rw-r--r-- 1 yaswanth EEgrad    3475 Apr 26 20:30 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  209150 Apr 26 20:30 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 20:30 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057564 Apr 26 20:30 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676714 Apr 26 20:30 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794106 Apr 26 20:30 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  208998 Apr 26 20:30 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  361987 Apr 26 20:30 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  614243 Apr 26 20:30 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 26 19:32 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2491 Apr 26 20:30 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 20:30 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 19:32 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  175104 Apr 26 20:30 sim.stats.sqlite3
+
+./radiosity_64_8_gainestown_75:
+total 4088
+-rw-r--r-- 1 yaswanth EEgrad    3476 Apr 26 16:35 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  209185 Apr 26 16:35 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:35 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057558 Apr 26 16:35 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676710 Apr 26 16:35 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794105 Apr 26 16:35 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  209025 Apr 26 16:35 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  361987 Apr 26 16:35 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  612995 Apr 26 16:35 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6474 Apr 26 15:37 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2492 Apr 26 16:35 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 16:35 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 15:37 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  174080 Apr 26 16:35 sim.stats.sqlite3
+
+./radiosity_64_8_gainestown_8:
+total 4092
+-rw-r--r-- 1 yaswanth EEgrad    3474 Apr 26 17:34 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  209751 Apr 26 17:34 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 17:34 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057549 Apr 26 17:34 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676701 Apr 26 17:34 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794104 Apr 26 17:34 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  209603 Apr 26 17:34 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  363029 Apr 26 17:34 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  616499 Apr 26 17:34 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6471 Apr 26 16:35 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2485 Apr 26 17:34 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 17:34 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:35 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  174080 Apr 26 17:34 sim.stats.sqlite3
+
+./radiosity_64_8_gainestown_9:
+total 4088
+-rw-r--r-- 1 yaswanth EEgrad    3494 Apr 26 18:33 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  209079 Apr 26 18:33 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 18:33 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057562 Apr 26 18:33 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676712 Apr 26 18:33 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794107 Apr 26 18:33 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  208929 Apr 26 18:33 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  361987 Apr 26 18:33 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  613627 Apr 26 18:33 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6471 Apr 26 17:34 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2484 Apr 26 18:33 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 18:33 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 17:34 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  175104 Apr 26 18:33 sim.stats.sqlite3
+
+./radix_64_16_gainestown:
+total 2876
+-rw-r--r-- 1 yaswanth EEgrad     924 Apr 26 15:58 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    9548 Apr 26 15:58 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 15:58 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1060430 Apr 26 15:58 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  680630 Apr 26 15:58 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  796505 Apr 26 15:58 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    9180 Apr 26 15:58 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   14551 Apr 26 15:58 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   23314 Apr 26 15:58 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6459 Apr 26 15:56 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2435 Apr 26 15:58 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 15:58 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 15:56 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  266240 Apr 26 15:58 sim.stats.sqlite3
+
+./radix_64_16_gainestown_11:
+total 2876
+-rw-r--r-- 1 yaswanth EEgrad     924 Apr 26 16:01 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    9548 Apr 26 16:01 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:01 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1060372 Apr 26 16:01 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  680572 Apr 26 16:01 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  796521 Apr 26 16:01 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    9180 Apr 26 16:01 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   14551 Apr 26 16:01 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   23317 Apr 26 16:01 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6467 Apr 26 15:59 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2455 Apr 26 16:01 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 16:01 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 15:58 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  266240 Apr 26 16:01 sim.stats.sqlite3
+
+./radix_64_16_gainestown_75:
+total 2876
+-rw-r--r-- 1 yaswanth EEgrad     924 Apr 26 15:51 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    9548 Apr 26 15:51 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 15:51 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1060409 Apr 26 15:51 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  680611 Apr 26 15:51 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  796497 Apr 26 15:51 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    9180 Apr 26 15:51 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   14551 Apr 26 15:51 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   23346 Apr 26 15:51 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6468 Apr 26 15:49 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2455 Apr 26 15:51 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 15:51 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 15:48 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  266240 Apr 26 15:51 sim.stats.sqlite3
+
+./radix_64_16_gainestown_8:
+total 2876
+-rw-r--r-- 1 yaswanth EEgrad     924 Apr 26 15:53 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    9204 Apr 26 15:53 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 15:53 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1060492 Apr 26 15:53 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  680688 Apr 26 15:53 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  796376 Apr 26 15:53 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    8836 Apr 26 15:53 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   14031 Apr 26 15:53 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   22533 Apr 26 15:53 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6465 Apr 26 15:51 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2449 Apr 26 15:53 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 15:53 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 15:51 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  266240 Apr 26 15:53 sim.stats.sqlite3
+
+./radix_64_16_gainestown_9:
+total 2880
+-rw-r--r-- 1 yaswanth EEgrad     924 Apr 26 15:56 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    9548 Apr 26 15:56 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 15:56 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1060415 Apr 26 15:56 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  680609 Apr 26 15:56 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  796505 Apr 26 15:56 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    9180 Apr 26 15:56 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   14551 Apr 26 15:56 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   23366 Apr 26 15:56 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6465 Apr 26 15:54 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2444 Apr 26 15:56 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 15:56 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 15:53 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  267264 Apr 26 15:56 sim.stats.sqlite3
+
+./radix_64_32_gainestown:
+total 3064
+-rw-r--r-- 1 yaswanth EEgrad     924 Apr 26 16:09 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    7468 Apr 26 16:09 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:09 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1063737 Apr 26 16:09 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  685057 Apr 26 16:09 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  798782 Apr 26 16:09 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    6992 Apr 26 16:09 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    9351 Apr 26 16:09 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   14007 Apr 26 16:09 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6459 Apr 26 16:07 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2434 Apr 26 16:09 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 16:09 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:07 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  464896 Apr 26 16:09 sim.stats.sqlite3
+
+./radix_64_32_gainestown_11:
+total 3064
+-rw-r--r-- 1 yaswanth EEgrad     924 Apr 26 16:11 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    7468 Apr 26 16:11 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:11 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1063655 Apr 26 16:11 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  684971 Apr 26 16:11 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  798904 Apr 26 16:11 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    6991 Apr 26 16:11 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    9351 Apr 26 16:11 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   14120 Apr 26 16:11 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6467 Apr 26 16:09 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2453 Apr 26 16:11 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 16:11 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:09 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  464896 Apr 26 16:11 sim.stats.sqlite3
+
+./radix_64_32_gainestown_75:
+total 3064
+-rw-r--r-- 1 yaswanth EEgrad     924 Apr 26 16:03 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    7468 Apr 26 16:03 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:03 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1063740 Apr 26 16:03 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  685056 Apr 26 16:03 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  798902 Apr 26 16:03 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    6985 Apr 26 16:03 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    9351 Apr 26 16:03 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   14155 Apr 26 16:03 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6468 Apr 26 16:01 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2454 Apr 26 16:03 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 16:03 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:01 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  465920 Apr 26 16:03 sim.stats.sqlite3
+
+./radix_64_32_gainestown_8:
+total 3060
+-rw-r--r-- 1 yaswanth EEgrad     924 Apr 26 16:05 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    8170 Apr 26 16:05 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:05 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1063838 Apr 26 16:05 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  685160 Apr 26 16:05 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  798487 Apr 26 16:05 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    7634 Apr 26 16:05 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   10391 Apr 26 16:05 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   15894 Apr 26 16:05 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6465 Apr 26 16:03 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2447 Apr 26 16:05 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 16:05 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:03 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  466944 Apr 26 16:05 sim.stats.sqlite3
+
+./radix_64_32_gainestown_9:
+total 3060
+-rw-r--r-- 1 yaswanth EEgrad     924 Apr 26 16:07 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    7892 Apr 26 16:07 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:07 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1064922 Apr 26 16:07 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  686244 Apr 26 16:07 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  797405 Apr 26 16:07 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    7340 Apr 26 16:07 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    9871 Apr 26 16:07 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   14972 Apr 26 16:07 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6465 Apr 26 16:05 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2448 Apr 26 16:07 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 16:07 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:05 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  465920 Apr 26 16:07 sim.stats.sqlite3
+
+./radix_64_48_gainestown:
+total 3100
+-rw-r--r-- 1 yaswanth EEgrad     125 Apr 26 16:17 app_29.log
+-rw-r--r-- 1 yaswanth EEgrad    1709 Apr 26 16:17 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    5300 Apr 26 16:17 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:17 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1067992 Apr 26 16:17 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  690428 Apr 26 16:17 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  799923 Apr 26 16:17 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    4820 Apr 26 16:17 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    5711 Apr 26 16:17 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6459 Apr 26 16:16 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2434 Apr 26 16:17 sim.info
+-rw-r--r-- 1 yaswanth EEgrad       0 Apr 26 16:17 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:15 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  553984 Apr 26 16:17 sim.stats.sqlite3
+
+./radix_64_48_gainestown_11:
+total 3128
+-rw-r--r-- 1 yaswanth EEgrad     125 Apr 26 16:18 app_23.log
+-rw-r--r-- 1 yaswanth EEgrad    4266 Apr 26 16:18 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    5804 Apr 26 16:18 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:18 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1069527 Apr 26 16:18 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  691961 Apr 26 16:18 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  798804 Apr 26 16:18 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    5234 Apr 26 16:18 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6231 Apr 26 16:18 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6467 Apr 26 16:17 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2449 Apr 26 16:18 sim.info
+-rw-r--r-- 1 yaswanth EEgrad       0 Apr 26 16:18 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:17 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  575488 Apr 26 16:18 sim.stats.sqlite3
+
+./radix_64_48_gainestown_75:
+total 3124
+-rw-r--r-- 1 yaswanth EEgrad     125 Apr 26 16:13 app_24.log
+-rw-r--r-- 1 yaswanth EEgrad   12143 Apr 26 16:13 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    5804 Apr 26 16:13 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:12 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1069471 Apr 26 16:12 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  691905 Apr 26 16:12 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  798673 Apr 26 16:12 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    5228 Apr 26 16:13 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6231 Apr 26 16:13 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6468 Apr 26 16:11 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2449 Apr 26 16:13 sim.info
+-rw-r--r-- 1 yaswanth EEgrad       0 Apr 26 16:13 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:11 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  573440 Apr 26 16:12 sim.stats.sqlite3
+
+./radix_64_48_gainestown_8:
+total 3128
+-rw-r--r-- 1 yaswanth EEgrad     125 Apr 26 16:14 app_11.log
+-rw-r--r-- 1 yaswanth EEgrad     853 Apr 26 16:14 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    5804 Apr 26 16:14 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:14 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1069337 Apr 26 16:14 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  691775 Apr 26 16:14 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  798724 Apr 26 16:14 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    5234 Apr 26 16:14 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6231 Apr 26 16:14 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6465 Apr 26 16:13 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2446 Apr 26 16:14 sim.info
+-rw-r--r-- 1 yaswanth EEgrad       0 Apr 26 16:14 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:13 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  578560 Apr 26 16:14 sim.stats.sqlite3
+
+./radix_64_48_gainestown_9:
+total 3140
+-rw-r--r-- 1 yaswanth EEgrad     125 Apr 26 16:15 app_27.log
+-rw-r--r-- 1 yaswanth EEgrad    8497 Apr 26 16:15 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad    5804 Apr 26 16:15 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:15 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1069836 Apr 26 16:15 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  692272 Apr 26 16:15 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  797722 Apr 26 16:15 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad    5212 Apr 26 16:15 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6231 Apr 26 16:15 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6465 Apr 26 16:14 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2443 Apr 26 16:15 sim.info
+-rw-r--r-- 1 yaswanth EEgrad       0 Apr 26 16:15 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:14 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  582656 Apr 26 16:15 sim.stats.sqlite3
+
+./radix_64_8_gainestown:
+total 2816
+-rw-r--r-- 1 yaswanth EEgrad     923 Apr 26 15:44 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad   15764 Apr 26 15:44 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 15:44 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1058824 Apr 26 15:44 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  678458 Apr 26 15:44 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  795232 Apr 26 15:44 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad   15396 Apr 26 15:44 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   27031 Apr 26 15:44 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   45072 Apr 26 15:44 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6457 Apr 26 15:40 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2434 Apr 26 15:44 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 15:44 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 15:40 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  161792 Apr 26 15:44 sim.stats.sqlite3
+
+./radix_64_8_gainestown_11:
+total 2816
+-rw-r--r-- 1 yaswanth EEgrad     923 Apr 26 15:48 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad   15764 Apr 26 15:48 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 15:48 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1058836 Apr 26 15:48 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  678472 Apr 26 15:48 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  795222 Apr 26 15:48 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad   15396 Apr 26 15:48 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   27031 Apr 26 15:48 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   45090 Apr 26 15:48 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6465 Apr 26 15:44 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2451 Apr 26 15:48 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 15:48 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 15:44 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  160768 Apr 26 15:48 sim.stats.sqlite3
+
+./radix_64_8_gainestown_75:
+total 2816
+-rw-r--r-- 1 yaswanth EEgrad     923 Apr 26 15:32 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad   15764 Apr 26 15:32 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 15:32 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1058581 Apr 26 15:32 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  678215 Apr 26 15:32 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  795216 Apr 26 15:32 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad   15396 Apr 26 15:32 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   27031 Apr 26 15:32 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   45073 Apr 26 15:32 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6466 Apr 26 15:28 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2453 Apr 26 15:32 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 15:32 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 15:27 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  161792 Apr 26 15:32 sim.stats.sqlite3
+
+./radix_64_8_gainestown_8:
+total 2812
+-rw-r--r-- 1 yaswanth EEgrad     923 Apr 26 15:36 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad   15764 Apr 26 15:36 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 15:36 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1058803 Apr 26 15:36 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  678437 Apr 26 15:36 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  795218 Apr 26 15:36 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad   15396 Apr 26 15:36 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   27031 Apr 26 15:36 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   45020 Apr 26 15:36 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6463 Apr 26 15:32 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2444 Apr 26 15:36 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 15:36 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 15:32 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  161792 Apr 26 15:36 sim.stats.sqlite3
+
+./radix_64_8_gainestown_9:
+total 2816
+-rw-r--r-- 1 yaswanth EEgrad     923 Apr 26 15:40 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad   15764 Apr 26 15:40 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 15:40 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1058817 Apr 26 15:40 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  678451 Apr 26 15:40 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  795228 Apr 26 15:40 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad   15396 Apr 26 15:40 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   27031 Apr 26 15:40 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad   45086 Apr 26 15:40 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6463 Apr 26 15:36 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2445 Apr 26 15:40 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 15:40 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 15:36 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  161792 Apr 26 15:40 sim.stats.sqlite3
+
+./raytrace_64_16_gainestown:
+total 7852
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 28 02:40 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  719192 Apr 28 02:40 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 02:40 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057562 Apr 28 02:40 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676706 Apr 28 02:40 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794053 Apr 28 02:40 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  718641 Apr 28 02:40 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1360269 Apr 28 02:40 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2337375 Apr 28 02:40 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6465 Apr 27 22:59 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2457 Apr 28 02:40 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 02:40 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 22:59 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  287744 Apr 28 02:40 sim.stats.sqlite3
+
+./raytrace_64_16_gainestown_11:
+total 7848
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 28 06:20 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  718941 Apr 28 06:20 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 06:20 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057553 Apr 28 06:20 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676697 Apr 28 06:20 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794071 Apr 28 06:20 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  718373 Apr 28 06:20 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1359747 Apr 28 06:20 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2334932 Apr 28 06:20 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 28 02:40 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2475 Apr 28 06:20 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 06:20 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 02:40 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  288768 Apr 28 06:20 sim.stats.sqlite3
+
+./raytrace_64_16_gainestown_75:
+total 7836
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 27 15:33 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  716960 Apr 27 15:33 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 15:33 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057561 Apr 27 15:33 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676705 Apr 27 15:33 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794054 Apr 27 15:33 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  716393 Apr 27 15:33 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1356093 Apr 27 15:33 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2328290 Apr 27 15:33 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6474 Apr 27 11:53 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2473 Apr 27 15:33 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 15:33 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 11:52 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  287744 Apr 27 15:33 sim.stats.sqlite3
+
+./raytrace_64_16_gainestown_8:
+total 7880
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 27 19:17 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  723516 Apr 27 19:17 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 19:16 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057313 Apr 27 19:17 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676457 Apr 27 19:16 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794055 Apr 27 19:16 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  722934 Apr 27 19:17 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1368621 Apr 27 19:17 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2350669 Apr 27 19:17 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6471 Apr 27 15:33 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2470 Apr 27 19:17 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 19:17 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 15:33 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  287744 Apr 27 19:17 sim.stats.sqlite3
+
+./raytrace_64_16_gainestown_9:
+total 7872
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 27 22:59 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  722656 Apr 27 22:59 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 22:59 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057559 Apr 27 22:59 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676703 Apr 27 22:59 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794053 Apr 27 22:59 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  722104 Apr 27 22:59 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1367055 Apr 27 22:59 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2346209 Apr 27 22:59 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6471 Apr 27 19:17 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2470 Apr 27 22:59 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 22:59 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 19:17 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  287744 Apr 27 22:59 sim.stats.sqlite3
+
+./raytrace_64_32_gainestown:
+total 7904
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 28 20:42 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  697184 Apr 28 20:42 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 20:42 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057562 Apr 28 20:42 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676706 Apr 28 20:42 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794055 Apr 28 20:42 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  696142 Apr 28 20:42 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1313289 Apr 28 20:42 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2253762 Apr 28 20:42 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6465 Apr 28 17:08 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2457 Apr 28 20:42 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 20:42 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 17:08 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  517120 Apr 28 20:42 sim.stats.sqlite3
+
+./raytrace_64_32_gainestown_11:
+total 7976
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 29 00:19 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  707247 Apr 29 00:19 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 29 00:19 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057561 Apr 29 00:19 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676707 Apr 29 00:19 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794054 Apr 29 00:19 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  706257 Apr 29 00:19 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1332603 Apr 29 00:19 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2287653 Apr 29 00:19 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 28 20:42 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2476 Apr 29 00:19 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 29 00:19 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 20:42 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  517120 Apr 29 00:19 sim.stats.sqlite3
+
+./raytrace_64_32_gainestown_75:
+total 7928
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 28 09:55 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  700681 Apr 28 09:55 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 09:55 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057311 Apr 28 09:55 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676455 Apr 28 09:55 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794054 Apr 28 09:55 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  699625 Apr 28 09:55 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1319553 Apr 28 09:55 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2264562 Apr 28 09:55 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6474 Apr 28 06:20 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2475 Apr 28 09:55 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 09:55 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 06:20 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  518144 Apr 28 09:55 sim.stats.sqlite3
+
+./raytrace_64_32_gainestown_8:
+total 7980
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 28 13:32 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  708604 Apr 28 13:32 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 13:32 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057505 Apr 28 13:32 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676651 Apr 28 13:32 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794054 Apr 28 13:32 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  707503 Apr 28 13:32 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1334691 Apr 28 13:32 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2290297 Apr 28 13:32 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6471 Apr 28 09:55 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2468 Apr 28 13:32 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 13:32 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 09:55 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  517120 Apr 28 13:32 sim.stats.sqlite3
+
+./raytrace_64_32_gainestown_9:
+total 7928
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 28 17:08 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  700802 Apr 28 17:08 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 28 17:08 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057560 Apr 28 17:08 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676704 Apr 28 17:08 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794054 Apr 28 17:08 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  699703 Apr 28 17:08 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1320075 Apr 28 17:08 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2265171 Apr 28 17:08 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6471 Apr 28 13:33 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2469 Apr 28 17:08 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 28 17:08 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 28 13:32 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  516096 Apr 28 17:08 sim.stats.sqlite3
+
+./raytrace_64_48_gainestown:
+total 8188
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 29 14:35 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  708667 Apr 29 14:35 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 29 14:35 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057500 Apr 29 14:35 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676646 Apr 29 14:35 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794053 Apr 29 14:35 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  706837 Apr 29 14:35 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1329993 Apr 29 14:35 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2282138 Apr 29 14:35 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6465 Apr 29 10:59 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2459 Apr 29 14:35 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 29 14:35 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 29 10:59 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  741376 Apr 29 14:35 sim.stats.sqlite3
+
+./raytrace_64_48_gainestown_11:
+total 8200
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 29 18:13 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  710690 Apr 29 18:13 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 29 18:13 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057567 Apr 29 18:13 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676711 Apr 29 18:13 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794053 Apr 29 18:13 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  708861 Apr 29 18:13 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1334169 Apr 29 18:13 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2289626 Apr 29 18:13 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 29 14:36 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2477 Apr 29 18:13 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 29 18:13 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 29 14:35 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  740352 Apr 29 18:13 sim.stats.sqlite3
+
+./raytrace_64_48_gainestown_75:
+total 8076
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 29 03:52 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  692863 Apr 29 03:52 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 29 03:52 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057559 Apr 29 03:52 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676703 Apr 29 03:52 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794054 Apr 29 03:52 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  691106 Apr 29 03:52 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1300239 Apr 29 03:52 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2230704 Apr 29 03:52 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6474 Apr 29 00:19 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2476 Apr 29 03:52 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 29 03:52 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 29 00:19 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  738304 Apr 29 03:52 sim.stats.sqlite3
+
+./raytrace_64_48_gainestown_8:
+total 8116
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 29 07:25 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  698439 Apr 29 07:25 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 29 07:25 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057505 Apr 29 07:25 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676649 Apr 29 07:25 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794054 Apr 29 07:25 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  696651 Apr 29 07:25 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1310679 Apr 29 07:25 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2249582 Apr 29 07:25 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6471 Apr 29 03:52 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2471 Apr 29 07:25 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 29 07:25 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 29 03:52 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  738304 Apr 29 07:25 sim.stats.sqlite3
+
+./raytrace_64_48_gainestown_9:
+total 8100
+-rw-r--r-- 1 yaswanth EEgrad    2046 Apr 29 10:59 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  696505 Apr 29 10:59 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 29 10:59 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057562 Apr 29 10:59 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676706 Apr 29 10:59 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794068 Apr 29 10:59 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  694622 Apr 29 10:59 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1306503 Apr 29 10:59 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2241790 Apr 29 10:59 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6471 Apr 29 07:26 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2470 Apr 29 10:59 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 29 10:59 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 29 07:25 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  738304 Apr 29 10:59 sim.stats.sqlite3
+
+./raytrace_64_8_gainestown:
+total 8004
+-rw-r--r-- 1 yaswanth EEgrad    2044 Apr 27 07:58 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  755060 Apr 27 07:58 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 07:58 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057560 Apr 27 07:58 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676704 Apr 27 07:58 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794054 Apr 27 07:58 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  754628 Apr 27 07:58 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1432827 Apr 27 07:58 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2462057 Apr 27 07:58 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6463 Apr 27 04:05 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2455 Apr 27 07:58 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 07:58 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 04:05 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  174080 Apr 27 07:58 sim.stats.sqlite3
+
+./raytrace_64_8_gainestown_11:
+total 7984
+-rw-r--r-- 1 yaswanth EEgrad    2044 Apr 27 11:52 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  752902 Apr 27 11:52 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 11:52 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057560 Apr 27 11:52 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676706 Apr 27 11:52 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794053 Apr 27 11:52 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  752450 Apr 27 11:52 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1428651 Apr 27 11:52 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2453957 Apr 27 11:52 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6471 Apr 27 07:58 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2473 Apr 27 11:52 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 11:52 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 07:58 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  174080 Apr 27 11:52 sim.stats.sqlite3
+
+./raytrace_64_8_gainestown_75:
+total 8060
+-rw-r--r-- 1 yaswanth EEgrad    2044 Apr 26 20:13 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  763822 Apr 26 20:13 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 20:13 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057498 Apr 26 20:13 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676642 Apr 26 20:13 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794053 Apr 26 20:13 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  763386 Apr 26 20:13 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1449531 Apr 26 20:13 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2488865 Apr 26 20:13 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6472 Apr 26 16:18 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2473 Apr 26 20:13 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 20:13 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:18 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  174080 Apr 26 20:13 sim.stats.sqlite3
+
+./raytrace_64_8_gainestown_8:
+total 8032
+-rw-r--r-- 1 yaswanth EEgrad    2044 Apr 27 00:08 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  759477 Apr 27 00:08 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 00:08 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057563 Apr 27 00:08 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676709 Apr 27 00:08 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794054 Apr 27 00:08 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  759035 Apr 27 00:08 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1441179 Apr 27 00:08 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2475574 Apr 27 00:08 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6469 Apr 26 20:14 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2465 Apr 27 00:08 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 00:08 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 20:13 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  174080 Apr 27 00:08 sim.stats.sqlite3
+
+./raytrace_64_8_gainestown_9:
+total 8060
+-rw-r--r-- 1 yaswanth EEgrad    2044 Apr 27 04:05 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  763524 Apr 27 04:05 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 04:05 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057559 Apr 27 04:05 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676703 Apr 27 04:05 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794055 Apr 27 04:05 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  763084 Apr 27 04:05 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1449009 Apr 27 04:05 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 2489082 Apr 27 04:05 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6469 Apr 27 00:08 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2467 Apr 27 04:05 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 04:05 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 00:08 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  174080 Apr 27 04:05 sim.stats.sqlite3
+
+./streamcluster_64_16_gainestown:
+total 4024
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 26 21:02 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  175393 Apr 26 21:02 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 21:02 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057265 Apr 26 21:02 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676407 Apr 26 21:02 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794098 Apr 26 21:02 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  175258 Apr 26 21:02 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  268207 Apr 26 21:02 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  447362 Apr 26 21:02 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6475 Apr 26 20:15 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2488 Apr 26 21:02 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 21:02 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 20:15 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  440320 Apr 26 21:02 sim.stats.sqlite3
+
+./streamcluster_64_16_gainestown_11:
+total 4020
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 26 21:50 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  174709 Apr 26 21:50 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 21:50 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057521 Apr 26 21:50 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676663 Apr 26 21:50 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794099 Apr 26 21:50 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  174563 Apr 26 21:50 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  267165 Apr 26 21:50 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  445085 Apr 26 21:50 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6483 Apr 26 21:02 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2505 Apr 26 21:50 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 21:50 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 21:02 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  440320 Apr 26 21:50 sim.stats.sqlite3
+
+./streamcluster_64_16_gainestown_75:
+total 3976
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 26 18:46 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  167809 Apr 26 18:46 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 18:46 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057519 Apr 26 18:46 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676661 Apr 26 18:46 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794099 Apr 26 18:46 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  167667 Apr 26 18:46 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  256745 Apr 26 18:46 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  428267 Apr 26 18:46 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6484 Apr 26 18:01 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2504 Apr 26 18:46 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 18:46 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 18:01 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  440320 Apr 26 18:46 sim.stats.sqlite3
+
+./streamcluster_64_16_gainestown_8:
+total 3924
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 26 19:31 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  158491 Apr 26 19:31 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 19:31 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057521 Apr 26 19:31 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676665 Apr 26 19:31 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794098 Apr 26 19:31 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  158354 Apr 26 19:31 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  242678 Apr 26 19:31 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  404347 Apr 26 19:31 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6481 Apr 26 18:46 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2498 Apr 26 19:31 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 19:31 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 18:46 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  441344 Apr 26 19:31 sim.stats.sqlite3
+
+./streamcluster_64_16_gainestown_9:
+total 3904
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 26 20:15 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  155044 Apr 26 20:15 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 20:15 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057263 Apr 26 20:15 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676405 Apr 26 20:15 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794098 Apr 26 20:15 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  154916 Apr 26 20:15 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  237468 Apr 26 20:15 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  395236 Apr 26 20:15 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6481 Apr 26 19:31 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2497 Apr 26 20:15 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 20:15 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 19:31 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  443392 Apr 26 20:15 sim.stats.sqlite3
+
+./streamcluster_64_32_gainestown:
+total 4740
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 27 03:16 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  271988 Apr 27 03:16 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 03:16 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057553 Apr 27 03:16 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676703 Apr 27 03:16 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794097 Apr 27 03:16 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  271435 Apr 27 03:16 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  339063 Apr 27 03:16 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  546324 Apr 27 03:16 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6475 Apr 27 01:57 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2488 Apr 27 03:16 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 03:16 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 01:57 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  809984 Apr 27 03:16 sim.stats.sqlite3
+
+./streamcluster_64_32_gainestown_11:
+total 5168
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 27 04:40 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  357842 Apr 27 04:40 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 04:40 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057520 Apr 27 04:40 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676662 Apr 27 04:40 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794099 Apr 27 04:40 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  349236 Apr 27 04:40 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  444305 Apr 27 04:40 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  715569 Apr 27 04:40 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6483 Apr 27 03:16 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2507 Apr 27 04:40 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 04:40 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 03:16 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  811008 Apr 27 04:40 sim.stats.sqlite3
+
+./streamcluster_64_32_gainestown_75:
+total 5084
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 26 23:13 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  341758 Apr 26 23:13 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 23:13 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057263 Apr 26 23:13 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676403 Apr 26 23:13 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794099 Apr 26 23:13 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  335271 Apr 26 23:13 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  424507 Apr 26 23:13 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  683184 Apr 26 23:13 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6484 Apr 26 21:50 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2507 Apr 26 23:13 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 23:13 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 21:50 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  811008 Apr 26 23:13 sim.stats.sqlite3
+
+./streamcluster_64_32_gainestown_8:
+total 5144
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 27 00:34 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  350341 Apr 27 00:34 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 00:34 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1066533 Apr 27 00:34 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  687987 Apr 27 00:34 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  797508 Apr 27 00:34 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  342396 Apr 27 00:34 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  434927 Apr 27 00:34 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  700159 Apr 27 00:34 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6481 Apr 26 23:13 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2501 Apr 27 00:34 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 00:34 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 23:13 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  805888 Apr 27 00:34 sim.stats.sqlite3
+
+./streamcluster_64_32_gainestown_9:
+total 5172
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 27 01:57 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  359997 Apr 27 01:57 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 01:57 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057542 Apr 27 01:57 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676692 Apr 27 01:57 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794097 Apr 27 01:57 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  351038 Apr 27 01:57 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  446910 Apr 27 01:57 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  719242 Apr 27 01:57 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6481 Apr 27 00:35 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2501 Apr 27 01:57 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 01:57 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 00:34 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  805888 Apr 27 01:57 sim.stats.sqlite3
+
+./streamcluster_64_48_gainestown:
+total 6432
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 27 13:27 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  670804 Apr 27 13:27 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 13:27 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057264 Apr 27 13:27 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676408 Apr 27 13:27 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794097 Apr 27 13:27 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  609905 Apr 27 13:27 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  699417 Apr 27 13:27 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1082072 Apr 27 13:27 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6475 Apr 27 11:08 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2491 Apr 27 13:27 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 13:27 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 11:08 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  912384 Apr 27 13:27 sim.stats.sqlite3
+
+./streamcluster_64_48_gainestown_11:
+total 6224
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 27 15:35 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  623912 Apr 27 15:35 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 15:35 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057516 Apr 27 15:35 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676658 Apr 27 15:35 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794100 Apr 27 15:35 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  567374 Apr 27 15:35 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  650871 Apr 27 15:35 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1007362 Apr 27 15:35 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6483 Apr 27 13:27 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2509 Apr 27 15:36 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 15:36 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 13:27 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  911360 Apr 27 15:35 sim.stats.sqlite3
+
+./streamcluster_64_48_gainestown_75:
+total 6224
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 27 06:48 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  622341 Apr 27 06:48 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 06:48 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057455 Apr 27 06:48 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676595 Apr 27 06:48 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794101 Apr 27 06:48 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  565816 Apr 27 06:48 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  649305 Apr 27 06:48 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad 1004505 Apr 27 06:48 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6484 Apr 27 04:41 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2509 Apr 27 06:48 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 06:48 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 04:40 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  914432 Apr 27 06:48 sim.stats.sqlite3
+
+./streamcluster_64_48_gainestown_8:
+total 5580
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 27 08:58 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  459028 Apr 27 08:58 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 08:58 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1070302 Apr 27 08:58 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  693096 Apr 27 08:58 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  799492 Apr 27 08:58 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  458032 Apr 27 08:58 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  480775 Apr 27 08:58 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  747093 Apr 27 08:58 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6481 Apr 27 06:48 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2505 Apr 27 08:58 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 08:58 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 06:48 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  915456 Apr 27 08:58 sim.stats.sqlite3
+
+./streamcluster_64_48_gainestown_9:
+total 5572
+-rw-r--r-- 1 yaswanth EEgrad     857 Apr 27 11:08 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  465444 Apr 27 11:08 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 27 11:08 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057517 Apr 27 11:08 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676659 Apr 27 11:08 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794097 Apr 27 11:08 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  464685 Apr 27 11:08 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  487548 Apr 27 11:08 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  757476 Apr 27 11:08 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6481 Apr 27 08:58 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2503 Apr 27 11:08 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 27 11:08 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 27 08:58 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  914432 Apr 27 11:08 sim.stats.sqlite3
+
+./streamcluster_64_8_gainestown:
+total 4000
+-rw-r--r-- 1 yaswanth EEgrad     856 Apr 26 17:13 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  183147 Apr 26 17:13 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 17:13 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1059999 Apr 26 17:13 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  679753 Apr 26 17:13 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  795061 Apr 26 17:13 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  183090 Apr 26 17:13 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  314576 Apr 26 17:13 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  533515 Apr 26 17:13 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6473 Apr 26 16:26 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2485 Apr 26 17:13 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 17:13 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 16:26 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  264192 Apr 26 17:13 sim.stats.sqlite3
+
+./streamcluster_64_8_gainestown_11:
+total 4004
+-rw-r--r-- 1 yaswanth EEgrad     856 Apr 26 18:01 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  184332 Apr 26 18:01 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 18:01 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057517 Apr 26 18:01 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676659 Apr 26 18:01 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794098 Apr 26 18:01 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  184274 Apr 26 18:01 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  316660 Apr 26 18:01 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  537068 Apr 26 18:01 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6481 Apr 26 17:14 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2502 Apr 26 18:01 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 18:01 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 17:13 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  262144 Apr 26 18:01 sim.stats.sqlite3
+
+./streamcluster_64_8_gainestown_75:
+total 3964
+-rw-r--r-- 1 yaswanth EEgrad     856 Apr 26 14:49 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  177622 Apr 26 14:49 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 14:49 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057510 Apr 26 14:49 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676652 Apr 26 14:49 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794098 Apr 26 14:49 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  177563 Apr 26 14:49 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  305198 Apr 26 14:49 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  516972 Apr 26 14:49 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6482 Apr 26 14:03 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2504 Apr 26 14:49 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 14:49 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 14:03 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  263168 Apr 26 14:49 sim.stats.sqlite3
+
+./streamcluster_64_8_gainestown_8:
+total 4000
+-rw-r--r-- 1 yaswanth EEgrad     856 Apr 26 15:38 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  184027 Apr 26 15:38 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 15:38 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1057526 Apr 26 15:38 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  676668 Apr 26 15:38 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  794098 Apr 26 15:38 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  183968 Apr 26 15:38 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  316139 Apr 26 15:38 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  535698 Apr 26 15:38 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6479 Apr 26 14:50 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2496 Apr 26 15:38 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 15:38 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 14:49 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  264192 Apr 26 15:38 sim.stats.sqlite3
+
+./streamcluster_64_8_gainestown_9:
+total 3988
+-rw-r--r-- 1 yaswanth EEgrad     856 Apr 26 16:26 benchmark-app0-run0.log
+-rw-r--r-- 1 yaswanth EEgrad  180699 Apr 26 16:26 cycle_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad     885 Apr 26 16:26 energystats-temp.cfg
+-rw-r--r-- 1 yaswanth EEgrad 1059900 Apr 26 16:26 energystats-temp.py
+-rw-r--r-- 1 yaswanth EEgrad  679654 Apr 26 16:26 energystats-temp.txt
+-rw-r--r-- 1 yaswanth EEgrad  795050 Apr 26 16:26 energystats-temp.xml
+-rw-r--r-- 1 yaswanth EEgrad  180641 Apr 26 16:26 Inst_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  310408 Apr 26 16:26 ipc_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad  526191 Apr 26 16:26 Power_trace.csv
+-rw-r--r-- 1 yaswanth EEgrad    6479 Apr 26 15:38 sim.cfg
+-rw-r--r-- 1 yaswanth EEgrad    2494 Apr 26 16:26 sim.info
+-rw-r--r-- 1 yaswanth EEgrad   44319 Apr 26 16:26 sim.out
+-rw-r--r-- 1 yaswanth EEgrad     196 Apr 26 15:38 sim.scripts.py
+-rw-r--r-- 1 yaswanth EEgrad  263168 Apr 26 16:26 sim.stats.sqlite3
